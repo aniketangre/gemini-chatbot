@@ -125,7 +125,7 @@ with st.sidebar:
     - 🧠 Architecture Advisor
 
     Powered by [Gemini](https://gemini.google.com/) & [LangChain](https://python.langchain.com)
-    Developed by [@aniketaangre](https://github.com/aniketangre)
+    Developed by [@aniketangre](https://github.com/aniketangre)
     """)
 
 # Set the environment variable for the Google API key
